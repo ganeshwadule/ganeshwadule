@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Peer to Peer learing Platform**
 
-- 🌱 I’m currently learning **Next.js , Spring Boot**
+- 🌱 I’m currently learning **Spring and Spring Boot **
 
 - 💬 Ask me about **React , Express , Spring Boot**
 
