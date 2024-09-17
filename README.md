@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshwadule" alt="ganeshwadule" /></a> </p>
 
-- 🔭 I’m currently working on **Peer to Peer learing Platform**
+- 🔭 I’m currently working on **Food Mess Management Platform**
 
 - 🌱 I’m currently learning **Spring and Spring Boot **
 
-- 💬 Ask me about **React , Express , Spring Boot**
+- 💬 Ask me about **React , Express , Spring Boot ,Flask**
 
 - 📫 How to reach me **waduleganesh27@gmail.com**
 
