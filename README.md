@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI Powered Supply Chain Management**
 
-- 🌱 I’m currently learning **AI  and LLM's**
+- 🌱 I’m currently learning **AI in Full Stack Development**
 
 - 💬 Ask me about **React , Express , Spring Boot ,Flask**
 
