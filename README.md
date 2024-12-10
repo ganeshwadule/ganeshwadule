@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshwadule" alt="ganeshwadule" /></a> </p>
 
-- 🔭 I’m currently working on **AI Powered Supply Chain Management**
+- 🔭 I’m currently working on **AI Personal assistant for everyone**
 
 - 🌱 I’m currently learning **AI in Full Stack Development**
 
