@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI in Full Stack Development**
 
-- 💬 Ask me about **ReactJS, Spring Boot, Docker,Terraform Ter Automation using AI**
+- 💬 Ask me about **ReactJS, Spring Boot, Docker, FastAPI , Cloud Computing, Automation using AI**
 
 - 📫 How to reach me **waduleganesh27@gmail.com**
 - Explore more about me at **https://ganesh-wadule.netlify.app**
