@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Ganesh Wadule</h1>
+<h1 align="center">Hey, I am Ganesh Wadule</h1>
 <h3 align="center">A Fullstack Developer/Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshwadule&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshwadule" /> </p>
